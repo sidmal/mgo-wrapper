@@ -1,6 +1,6 @@
 # MongoDB database driver wrapper
 
-[![Build Status](https://travis-ci.com/sidmal/mgo-wrapper.svg?branch=main)](https://travis-ci.com/sidmal/mgo-wrapper)
+[![Build Status](https://travis-ci.com/sidmal/mgo-wrapper.svg?branch=master)](https://travis-ci.com/sidmal/mgo-wrapper)
 [![codecov](https://codecov.io/gh/sidmal/mgo-wrapper/branch/master/graph/badge.svg)](https://codecov.io/gh/sidmal/mgo-wrapper)
 
 Wrapper to database driver provide next new features:
